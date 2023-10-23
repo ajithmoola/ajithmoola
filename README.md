@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Ajith, a PhD student in the Department of Mechanical Engineering, Iowa State University. I work at [CMIA Laboratory](https://github.com/CMIA-Lab) under Dr. Aishwarya Pawar's supervision.
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajithmoola)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ajithmoola/ajithmoola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
